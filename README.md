@@ -43,8 +43,8 @@
 #### SPENT:
 
 - Spent is a web application designed for sports enthusiasts of all kinds. This platform allows users to create and join these sports events, promoting health and the creation of sustainable local communities.
-- [Java / SpringBoot REST API](https://github.com/FundacioEsplaiJava2024/Spent-API)
-- [Typescript / React Front End](https://github.com/FundacioEsplaiJava2024/Spent-FrontEnd)
+- [Java / SpringBoot REST API](https://github.com/Jaranag/Spent-API)
+- [Typescript / React Front End](https://github.com/davidfreixes/Spent_FrontEnd)
 - Group project
 
 #### Smaller projects:
